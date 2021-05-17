@@ -1,5 +1,5 @@
 # Sonic 2 Autodemo Disassembly
-A split disassembly for the Sonic 2 Autodemo, if you wish to help me on it then please contact me on Discord @ RepellantMold#7938 or DM me on [Twitter](https://twitter.com/repellantmold)
+A "split disassembly" for the Sonic 2 Autodemo.
 ## Note
 This disassembly uses Ghidra, rather than IDA.
 ## Credits
